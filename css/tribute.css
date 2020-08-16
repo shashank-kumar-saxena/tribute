@@ -1,0 +1,29 @@
+h1
+{
+  text-align: center;
+}
+#img-div
+{
+  position: relative;
+  left:25%;
+  width:50%;
+}
+#image{
+  position:relative;
+  max-width:100%;
+  height:auto;
+}
+#img-caption
+{
+  font-size:1.5em;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: justify;
+}
+ #tribute-info
+{
+  position: relative;
+  width:80%;
+  left:10%;
+  text-align: justify;
+}
